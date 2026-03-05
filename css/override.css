@@ -1,0 +1,24 @@
+/* Site override: cloner.tech */
+:root {
+--color-primary: #06b6d4;
+--color-primary-dim: #0891b2;
+--color-primary-bright: #22d3ee;
+--color-bg: #0a0e14;
+--color-surface: #0f1923;
+--color-surface-elevated: #172030;
+--color-text: #e2e8f0;
+--color-text-muted: #94a3b8;
+--color-border: rgba(6, 182, 212, 0.12);
+--color-border-strong: rgba(6, 182, 212, 0.3);
+--color-glow: rgba(6, 182, 212, 0.4);
+--font-heading: 'Proxima Nova', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+--font-body: 'Proxima Nova', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+		--hero-title-color: #22d3ee;
+}
+
+.header-brand h1,
+.header-brand .brand-title { font-family: 'JetBrains Mono', monospace; letter-spacing: 0.15em; }
+.service-card { font-family: 'JetBrains Mono', monospace; }
+.service-card h3 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.1em; }
+.hero-title { text-shadow: 0 0 30px rgba(6,182,212,0.4); }
+

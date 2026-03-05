@@ -1,0 +1,7 @@
+title: CLONER
+description: Agent replication, persona cloning, and autonomous deployment infrastructure. An EGEX Advanced R&D platform.
+url: https://cloner.tech
+
+# Include underscore-prefixed files
+include:
+  - _canary.png
